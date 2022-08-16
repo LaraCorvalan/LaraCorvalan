@@ -50,7 +50,7 @@ GameFlix consume data de la API RAWG y de una base de datos local. Esta SPA te p
    <img width="40" src="./css.png"/>
    <img width="40" src="./postgres.png"/>
    <img width="40" src="./sequelize.png"/>
-   <img width="20" src="./figma.png"/>
+   <img width="30" src="./figma.png"/>
    
 </div>
 
@@ -58,7 +58,7 @@ GameFlix consume data de la API RAWG y de una base de datos local. Esta SPA te p
 <div align="center">
 <img width="40" src="ruby.png"/>
 <img width="40" src="phyton.png"/>
-<img width="40" src="django.png"/>
+<img width="70" src="django.png"/>
 </div>
 
 <br/>
