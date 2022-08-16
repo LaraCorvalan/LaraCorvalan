@@ -71,6 +71,7 @@ GameFlix consume data de la API RAWG y de una base de datos local. Esta SPA te p
 <br/>
 👥 <a href="https://www.linkedin.com/in/lara-corvalan-fullstack/">Mi LinkedIn</a>
 <br/>
+☎ +54 1144194875
 </p>
 
 
