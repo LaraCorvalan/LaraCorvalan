@@ -5,7 +5,7 @@
 </h1>
 <p align="left">
 ¿Quién soy? 👀 <br/>
-🔹 Hola! 🙋‍♀️ Soy Lara, una desarrolladora Full Stack (con orientacion al Front-End🤪) de Argentina empezando su carrera en el mundo IT! Sin miedo a los desafíos, con instinto por mejorar y con capacidad de realizar proyectos web teniendo siempre en mente que sean escalables, modularizables y optimizadas para así poder construir en equipo. ⏱ Más allá de los conocimientos técnicos, soy una persona curiosa, que le encanta aprender y enseñar. Me considero una persona detallista, pragmática, proactiva y con buena comunicación. 📣
+🔹 Hola! 🙋‍♀️ Soy Lara, una desarrolladora Full Stack (con orientacion al Front-End🤪) de Argentina empezando su carrera en el mundo IT! Sin miedo a los desafíos, con instinto por mejorar y con capacidad de realizar proyectos web teniendo siempre en mente que sean escalables, modularizables y optimizados para así poder construir en equipo. ⏱ Más allá de los conocimientos técnicos, soy una persona curiosa, que le encanta aprender y enseñar. Me considero una persona detallista, pragmática, proactiva y con buena comunicación. 📣
 
 🤓 ¿Mi Background? <br/>
 ✔ Terminé mis estudios secundarios y comencé a estudiar la carrera de Medicina hasta que me di cuenta que lo realmente disfrutaba era el mundo IT. 🖥
