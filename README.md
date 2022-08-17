@@ -10,7 +10,7 @@
 🤓 ¿Mi Background? <br/>
 ✔ Terminé mis estudios secundarios y comencé a estudiar la carrera de Medicina hasta que me di cuenta que lo realmente disfrutaba era el mundo IT. 🖥
 ✔ Ingresé al Bootcamp soyHenry donde, además de profundizar en las distintas tecnologías, aprendí metodologías agiles, a trabajar en conjunto con otros desarrolladores y comunicarme con profesionales que no sean del rubro IT. 👥
-✔ Actualmente me encuentro listo para mi primera experiencia laboral en el mundo IT! 😁
+✔ Actualmente me encuentro lista para mi primera experiencia laboral en el mundo IT! 😁
 
 <h1>Proyectos</h1>
 
